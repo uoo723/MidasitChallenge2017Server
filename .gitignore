@@ -1,0 +1,18 @@
+# virtualenv
+.env/
+
+# pycache
+__pycache__/
+
+# build
+build/
+
+# sublime text project setting files
+*.sublime-project
+*.sublime-workspace
+
+# db migrations
+migrations/
+
+# server storage
+uploads/
